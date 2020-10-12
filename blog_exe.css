@@ -1,0 +1,31 @@
+body{
+    background-color: cadetblue;
+}
+.h1{
+    color: rgba(0 , 0 , 0 , 0.5);
+}
+.wrapper{
+
+    
+    width: 70%;
+    margin:16 px auto;
+    padding:16px;
+    box-sizing:border-box;
+    background-color:  rgba(0, 0, 0,  0.5);
+}
+.wrapper h2{
+    color: whitesmoke;
+}
+table {
+    
+    border-collapse: collapse;
+  }
+  
+  table, th, td {
+      width: 100;
+    border: 1px solid black;
+  }
+  th{
+      background-color: tomato;
+      color: whitesmoke;
+  }

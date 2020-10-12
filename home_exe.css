@@ -1,0 +1,44 @@
+body{
+    background-color: cadetblue;
+}
+
+
+.h1{
+   color: deeppink;
+}
+
+.navbar a{
+    text-decoration : none;
+}
+
+.wrapper{
+
+    
+    width: 70%;
+    margin:16 px auto;
+    padding:16px;
+    box-sizing:border-box;
+    background-color:  rgba(0, 0, 0,  0.5);
+}
+
+.wrapper h2{
+    color:whitesmoke;
+}
+
+.nav a {
+
+    color: darkred;
+    text-decoration: none;
+    
+}
+
+
+p{
+    width: 50%;
+ text-decoration-color: peru;
+}
+
+#para{
+    text-decoration-color: peru;
+    text-decoration-line: underline;
+}
